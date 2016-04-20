@@ -7,7 +7,6 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 public class Main {
-
 	public static void main(String[] args) {
 		User user = new User(1, "Levi");
 
